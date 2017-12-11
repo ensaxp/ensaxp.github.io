@@ -1,4 +1,3 @@
-<div style="font-size:60px;margin:auto;">ensaxp</div>
 Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture. <br>
 Vous voulez participer ? <a href="git.html"> Suivez le guide</a>
 <br>
