@@ -1,4 +1,4 @@
-﻿<html>
+
 <head> 
    <title>
    Git, mode d'emploi
@@ -21,4 +21,4 @@
     
     </body>
     
-</html>
+
