@@ -6,7 +6,7 @@ layout: default
 Le servicegithub-pages permet de publier de petits sites web ....
 Il est basé sur la syntaxe Markdown
 
-Plus d'informations cliquer<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">ici</a> 
+Plus d'informations cliquer<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"> ici</a> 
 
 *Voici quelques pages sur github*
 <a href="https://pages.github.com/">Page d'accueil github</a>  
