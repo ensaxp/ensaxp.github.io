@@ -14,13 +14,13 @@ Utiliser directement les fonctionnalités de git plus facilement, directement en
 <h3> Version Application </h3>
 
 Tout d'abord créer un compte Github, 
-Puis télécharger  https://desktop.github.com/ .
+Puis télécharger  cliquer <a href="https://desktop.github.com/"> ici</a>.
 Apres l'avoir téléchargé, il faudra décompresser le fichier et puis lancer l'application.
 Se loger ... et publier !
 
-<h3> Version console</h>
+<h3> Version console </h3>
 
 Comment procéder sur une Version Windows avec un Terminal:
-Tout d'abord télécharger le logiciel à l'adresse suivante: https://git-scm.com/download/win , il s'agit d'une version portable
+Tout d'abord télécharger le logiciel à l'adresse suivante: <a href="https://git-scm.com/download/win"> ici</a> , il s'agit d'une version portable
 Il faudra décompresser le fichier (en double cliquant sur l'archive .zip)
 Pour enfin Lancer git-bash
