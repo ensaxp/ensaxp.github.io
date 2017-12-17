@@ -27,6 +27,3 @@ Comment creer un fichier ReadMe, tout d'abord il faudra Ouvrir le Notepad, faire
 How to create a readme file: Open Notepad, write something inside the notepad, (markdown) 
 to publish: create a commit, add 
 
-Logiciel Texte HTML pour mac : Brackets (gratuit)
-http://ensaxp.github.io/
-git clone https://github.com/username/username.github.io
