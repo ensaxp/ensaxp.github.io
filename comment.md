@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Comment travailler avec Git/Github ?
+
 <h1> Comment travailler avec Git/GitHub ? </h1>
 
 Une fois la notion de Git assimiler, le travail pratique commence, nous vous invitons à suivre les indications suivantes:
