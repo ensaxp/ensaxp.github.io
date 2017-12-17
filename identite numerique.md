@@ -2,6 +2,7 @@
 layout: default
 ---
 **Identité numérique**
+
 L’Élément indispensable pour commencer à utiliser le web est de se créer une identité numérique: il faut 
 Comment fabriquer un cyberespace, avec une identité numérique.
 L'identité numérique passe par deux éléments : 
@@ -15,11 +16,12 @@ Que ce qu'une identité numérique ?
   - Un compte mail ?
  
 Services gratuits de messagerie:
-    - https://www.gmx.fr/
-    -https://protonmail.com
-    https://e-resident.gov.ee/
+
+    -<a href="https://www.gmx.fr/">gmxmail</a>
+    -<a href="https://protonmail.com">protonmail</a>
+    -<a href="https://e-resident.gov.ee/">e-resident</a>
+    
  Services gratuits d'hébergement:
-https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml
 
-
-https://blockchainfrance.net/
+-<a href="https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml">ovh</a>
+-<a href="https://blockchainfrance.net/">blockchain</a>
