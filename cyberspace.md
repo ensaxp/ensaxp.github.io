@@ -5,7 +5,7 @@ layout: default
 
  - <a href="http://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html?_r=0">The death of the cyberflâneur</a><br>
 
-Hypothèse:
+**Hypothèse:**
 
    - Facebook, l'Haussmann du cyberespace
    - Il y a une échelle plus grande en Facebook, niveau planétaire
