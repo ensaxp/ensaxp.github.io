@@ -3,7 +3,7 @@ layout: default
 ---
 Comment travailler avec Git/Github ?
 <h1> Comment travailler avec Git/GitHub ? </h1>
-<img src="GIT + GUTHUB 3.png">
+
 Une fois la notion de Git assimiler, le travail pratique commence, nous vous invitons à suivre les indications suivantes:
 Il existe trois manières de travailler avec Git et Github: directement dans le navigateur, avec une application à télécharger, ou directement avec l'outil Git.
 
