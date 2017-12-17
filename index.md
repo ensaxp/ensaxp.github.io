@@ -12,7 +12,7 @@ layout: default
 
   Création de la page d'accueil du site [Suivez le guide](creation)
 
-**2.** [Identite numerique](identite numerique)
+**2.** [Identité numérique](identite numerique)
 
 **3.** [Cyberespace](cyberspace)
 
