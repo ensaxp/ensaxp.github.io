@@ -17,9 +17,9 @@ Que ce qu'une identité numérique ?
  
 Services gratuits de messagerie:
 
-<a href="https://www.gmx.fr/">gmxmail</a><br>
-<a href="https://protonmail.com">protonmail</a><br>
-<a href="https://e-resident.gov.ee/">e-resident</a>
+ - <a href="https://www.gmx.fr/">gmxmail</a><br>
+ - <a href="https://protonmail.com">protonmail</a><br>
+ - <a href="https://e-resident.gov.ee/">e-resident</a>
     
  Services gratuits d'hébergement:
 
