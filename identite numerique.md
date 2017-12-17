@@ -10,9 +10,8 @@ L'identité numérique passe par deux éléments :
     et en second lieu, une adresse mail indispensable pour ouvrir un compte sur Github.
 
 
-Nécessaire pour commencer fabriquer le cyberespace
-
-Que ce qu'une identité numérique ? Un adresse IP ? Un compte mail ?
+Nécessaire pour commencer fabriquer le cyberespace<br>
+Que ce qu'une identité numérique ? Une adresse IP ? Un compte e-mail ?
  
 Services gratuits de messagerie :
 
