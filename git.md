@@ -16,6 +16,6 @@ Git
    C'est un outil de bas niveau[réf. souhaitée], qui se veut simple et performant, dont la principale tâche est de gérer l'évolution du contenu d'une arborescence.
   </html>
  ---
- 
+ layout: default
  ---
-    Travailler avec Git et [github](github)  
+ Travailler avec Git et [github](github)  
