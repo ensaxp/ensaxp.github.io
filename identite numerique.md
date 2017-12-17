@@ -11,7 +11,8 @@ L'identité numérique passe par deux éléments :
 
 
 Nécessaire pour commencer fabriquer le cyberespace
-Que ce qu'une identité numérique ? Une adresse IP ? Un compte mail ?
+
+Que ce qu'une identité numérique ? Un adresse IP ? Un compte mail ?
  
 Services gratuits de messagerie :
 
