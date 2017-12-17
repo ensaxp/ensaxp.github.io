@@ -6,8 +6,9 @@ layout: default
 
 Vous voulez participer ? [Suivez le guide](git)
 
-pour savoir plus d'infomation pour travailler avec Git/Github [Suivez le guide](comment)
+Plus d'infomations pour travailler avec Git/Github [Suivez le guide](comment)
 
-Pour trouver des images des references d'architecture [Suivez le guide](informations)
+
+*Pour trouver des images des references d'architecture [Suivez le guide](informations)
 
 
