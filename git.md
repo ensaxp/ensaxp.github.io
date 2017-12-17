@@ -20,7 +20,7 @@ layout: default
 <br> 
    C'est un outil de bas niveau[réf. souhaitée], qui se veut simple et performant, dont la principale tâche est de gérer l'évolution du contenu d'une arborescence.
 <br>   
-   <h3> Travailler avec <a href="github.html">Git et Github</a> </h3>  
+   <h3> Travailler avec <a href="github.md">Git et Github</a> </h3>  
     
     </body>
     
