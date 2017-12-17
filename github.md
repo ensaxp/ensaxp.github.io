@@ -11,7 +11,7 @@ layout: default
 Selon Wikipedia, <a href="https://fr.wikipedia.org/wiki/GitHub">Github</a> est :"un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git."
   
 <h1> Comment travailler avec Git/GitHub ? </h1> <br>
-<img src="GIT + GUTHUB 3.png"> <br>
+ <br>
 Une fois la notion de Git assimiler, le travail pratique commence, nous vous invitons à suivre les indications suivantes: <br>
 Il existe trois manières de travailler avec Git et Github: directement dans le navigateur, avec une application à télécharger, ou directement avec l'outil Git.
 <br> <br>
