@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Cyberespace
+**Cyberespace**
 
 The death of the cyberflâneur 
 
