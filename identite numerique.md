@@ -17,11 +17,11 @@ Que ce qu'une identité numérique ?
  
 Services gratuits de messagerie:
 
-    -<a href="https://www.gmx.fr/">gmxmail</a>
-    -<a href="https://protonmail.com">protonmail</a>
-    -<a href="https://e-resident.gov.ee/">e-resident</a>
+<a href="https://www.gmx.fr/">gmxmail</a><br>
+<a href="https://protonmail.com">protonmail</a><br>
+<a href="https://e-resident.gov.ee/">e-resident</a>
     
  Services gratuits d'hébergement:
 
--<a href="https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml">ovh</a>
--<a href="https://blockchainfrance.net/">blockchain</a>
+<a href="https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml">ovh</a><br>
+<a href="https://blockchainfrance.net/">blockchain</a>
