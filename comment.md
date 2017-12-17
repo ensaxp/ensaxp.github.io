@@ -21,6 +21,6 @@ Se loger ... et publier !
 <h3> Version console </h3>
 
 Comment procéder sur une Version Windows avec un Terminal:
-Tout d'abord télécharger le logiciel à l'adresse suivante: <a href="https://git-scm.com/download/win"> ici</a> , il s'agit d'une version portable
+Tout d'abord télécharger le logiciel à l'adresse suivante: <a href="https://git-scm.com/download/win"> https://git-scm.com/download/win</a> , il s'agit d'une version portable
 Il faudra décompresser le fichier (en double cliquant sur l'archive .zip)
 Pour enfin Lancer git-bash
