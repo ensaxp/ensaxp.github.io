@@ -2,12 +2,7 @@
 layout: default
 ---
 
-<html>
-  <head>
-   <title>
-     Qu'est-ce que Github ?
-    </title>
-</head>
+     **Qu'est-ce que Github ?**
 
 <body>
 <h1>Github</h1>
