@@ -8,7 +8,7 @@ Vous voulez participer ? [Suivez le guide](git)
 
 Pour trouver des images des references d'architecture [Suivez le guide](informations)
 
-# [](#Travailler en ligne avec Git et Github)Travailler en ligne avec Git et Github
+# [](#)Travailler en ligne avec Git et Github
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
