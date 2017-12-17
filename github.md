@@ -2,8 +2,7 @@
 layout: default
 ---
 
-     **Qu'est-ce que Github ?**
-
+     Qu'est-ce que Github ?
 <body>
 <h1>Github</h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/200px-Octicons-mark-github.svg.png">
