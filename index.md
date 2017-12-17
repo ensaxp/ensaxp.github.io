@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Platerforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture**. 
+**Plateforme collective d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture**. 
 
 **1.** Vous voulez participer ? [Suivez le guide](git)
 
