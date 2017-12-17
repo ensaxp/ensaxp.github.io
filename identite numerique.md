@@ -13,13 +13,13 @@ L'identité numérique passe par deux éléments :
 Nécessaire pour commencer fabriquer le cyberespace<br>
 Que ce qu'une identité numérique ? Une adresse IP ? Un compte e-mail ?
  
-** Services gratuits de messagerie :**
+** Services gratuits de messagerie : **
 
  - <a href="https://www.gmx.fr/">gmxmail</a><br>
  - <a href="https://protonmail.com">protonmail</a><br>
  - <a href="https://e-resident.gov.ee/">e-resident</a>
     
-** Services gratuits d'hébergement :**
+** Services gratuits d'hébergement : **
 
  - <a href="https://www.ovh.com/fr/domaines/offre_hebergement_start10m.xml">ovh</a><br>
  - <a href="https://blockchainfrance.net/">blockchain</a>
