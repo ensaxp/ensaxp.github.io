@@ -5,7 +5,7 @@ layout: default
 
 L’Élément indispensable pour commencer à utiliser le web est de se créer une identité numérique: il faut fabriquer un cyberespace, avec une identité numérique.
 Cette identité numérique passe par deux éléments : 
-    En premier lieu, une adresse IP (un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique.)
+    En premier lieu, une adresse IP (un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique)
     et en second lieu, une adresse mail indispensable pour ouvrir un compte sur Github.
 
 
