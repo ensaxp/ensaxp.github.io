@@ -3,10 +3,10 @@ layout: default
 ---
 **Utiliser les Github-pages**
 
-Le servicegithub-pages permet de publier de petits sites web ....
-Il est basé sur la syntaxe Markdown
+Le service github-pages permet de publier des petits sites web ....
+Il est basé sur la syntaxe Markdown.
 
-Plus d'informations cliquer<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"> ici</a> 
+Plus d'informations ici <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"> ici</a> 
 
 **Voici quelques pages sur github**
 
