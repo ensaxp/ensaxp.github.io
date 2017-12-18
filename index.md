@@ -6,7 +6,7 @@ layout: default
 
 **1.** Vous voulez participer ? [Suivez le guide](git)
 
-  Comment travailler travailler avec Git/Github [Suivez le guide](comment)
+  Comment travailler avec Git/Github [Suivez le guide](comment)
 
   Utiliser les Github-pages [Suivez le guide](utiliser)
 
@@ -16,4 +16,4 @@ layout: default
 
 **3.** [Cyberespace](cyberspace)
 
-**4.** Pour trouver des images des references d'architecture [Suivez le guide](informations)
+**4.** Pour trouver des images de references d'architecture [Suivez le guide](informations)
