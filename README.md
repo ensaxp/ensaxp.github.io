@@ -1,3 +1,3 @@
-[Platerforme](https://ensaxp.github.io/) d'expérimentations numériques en ligne pour les Écoles Nationales Supérieures d'Architecture. 
+[Platerforme](https://ensaxp.github.io/) d'expérimentation numérique en ligne pour les Écoles Nationales Supérieures d'Architecture. 
 
 
