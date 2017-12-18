@@ -7,7 +7,7 @@ layout: default
 
 **Hypothèse:**
 
-   - Facebook, l'Haussmann du cyberespace
-   - Il y a une échelle plus grande en Facebook, niveau planétaire
+   - Facebook, l'Haussmann du cyberespace.
+   - Il y a une échelle plus grande en Facebook, niveau planétaire.
    - Le cyberespace est-il un espace à l'échelle planétaire ?
 
