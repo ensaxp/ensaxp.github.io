@@ -1,18 +1,11 @@
 <html>
 
- <head>
-
-  <title>
-
-     Le monde numérique hétérotopique
-
-  </title>
-
-</head>
+ <h1>  Le monde numérique hétérotopique </h1>
 
 
 <body>
   Dans ces quelques lignes nous nous intéresserons au concept développé par Michel Foucault dans les années 1960, en regard du monde actuel tourné vers le numérique.
+  <br>
 
 Tout d’abord rappelons les propos du philosophe sur l’hétérotopie. Il s’agit d’une science qualifiant des espaces ayant une localisation réel, physique qui nous projette dans des espaces autres, irréels et immatériels. Des exemples d’espaces hétérotopiques sont le cinéma, le théâtre, la cabane d’indien dans le jardin, ou encore le cimetière.
 
