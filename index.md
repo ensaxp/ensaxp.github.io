@@ -18,4 +18,4 @@ layout: default
 
 **4.** Pour trouver des images de references d'architecture [Suivez le guide](informations)
 
-**5.** Test [Test](test)
+**5.** Reflexion sur l'espace numérique [Architecture numérique et hétérotopie](numerique)
