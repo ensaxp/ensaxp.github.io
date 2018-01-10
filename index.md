@@ -18,4 +18,4 @@ layout: default
 
 **4.** Pour trouver des images de references d'architecture [Suivez le guide](informations)
 
-**5.** Test [Test](test2)
+**5.** Test [Test](Test 2)
