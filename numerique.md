@@ -6,7 +6,7 @@
 
      Le monde numérique hétérotopique
 
-    </title>
+  </title>
 
 </head>
 
