@@ -19,3 +19,5 @@ layout: default
 **4.** Pour trouver des images de references d'architecture [Suivez le guide](informations)
 
 **5.** Reflexion sur l'espace numérique [Architecture numérique et hétérotopie](numerique)
+
+**6.** [Kezako? Elements d'architecture numerique](appel)
