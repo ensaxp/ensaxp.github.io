@@ -1,12 +1,12 @@
-The Human Fabric of the Facebook Pyramid - Fiche de Lecture 
+﻿The Human Fabric of the Facebook Pyramid - Fiche de Lecture 
 
-FICHE DE LECTURE
-
-THE HUMAN FABRIC OF THE FACEBOOK PYRAMID 
 
 Quelque mots sur l'auteur de l'article : 
 
+<img src="https://labs.rs/wp-content/uploads/2017/08/cropped-Lab-01-300x300.png">
+
 Figure 1: Share Labs Logo 
+
 
 Share Labs est une equipe de recherche basee en yougoslavie. C'est un laboratoire de recherche de donnees qui explore l'intersection du numerique et de la societe. 
 
@@ -32,14 +32,23 @@ En premier lieu de l'analyse, Share Labs essaye d'en apprendre plus sur les pers
 
 Apres avoir explique comment fonctionne cette pyramide et en quoi elle est semblable a une aristocratie du XIX siecle, l'auteur se concentre sur le sommet de cette pyramide et de la poignee de personne qui la compose, et donc qui gravite autour de Mark Zuckerberg. Les donnees analyses sont des donnees publiques disponible sur le net. Ces donnees sont ensuite croisees pour former ce qu'il appelle le reseau de Facebook. La "map" revele bien les relations qui existe entre Facebook, le monde politique, le monde economique et les organisations non gouvernementales. 
 
+
+<a href="https://labs.rs/wp-content/uploads/2017/05/Facebook-Mng-Graph-01.png"><img class="alignnone wp-image-1701 size-full" src="https://labs.rs/wp-content/uploads/2017/05/Facebook-Mng-Graph-01.png">
+  
+  
 Figure 2: Organigramme de gestion de Facebook 
+
+
 Au centre du graphique, Mark Zuckerberg entoure de ses collaborateurs les plus proches. Les lignes de reseau qui entourent ces acteurs les connectent l'etablissement d'obtention de diplome, leur position au sein de Facebook, et eventuellement un poste anterieur dans une entreprise differente.
 
 Apres avoir montrer ce graphique, il explique que celui ci peut etre interprete et lu de differentes facons. Soit en suivant son parcours academique et professionnel, soit en suivant les lignes de son reseau direct et des connections qui existent avec les autres nœuds de relations.
 
 Cette partie de l'analyse avait donc pour but d'expliquer que le sommet de la pyramide est un reseau etendu connecte au centre (Mark Zuckerberg) et qu'il est extremement etendu par le biais de ses collaborateurs et de leurs connections personnelles.
 
+<a href="https://labs.rs/wp-content/uploads/2017/05/journeyFB.pdf"><img class="alignnone size-full wp-image-1773" src="https://labs.rs/wp-content/uploads/2017/05/Journey-01.gif">
+                                                                        
 Figure 3: Origine educative et professionnelle des employes de Facebook 
+
 Enfin l'auteur met en exergue la relation entre le cadre institutionnel et educatif des postes specifiques chez Facebook et de ses employes.
 Ce reseau montre encore plus precisement quels metiers et metiers sont lies a quelle universite. Dans le tableau de gauche, vous pouvez voir les universites classees en fonction du nombre d'employes de Facebook qui y ont etudie.
 
