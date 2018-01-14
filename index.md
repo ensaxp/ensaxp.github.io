@@ -21,4 +21,5 @@ layout: default
 **5.** Reflexion sur l'espace numérique [Architecture numérique et hétérotopie](numerique)
 
 **6.** [Kezako? Elements d'architecture numerique](appel)
-**6.** [The Human Fabric of the Facebook Pyramid - Fiche de Lecture](facefabric)
+
+**7.** [The Human Fabric of the Facebook Pyramid - Fiche de Lecture](facefabric)
