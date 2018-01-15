@@ -4,8 +4,7 @@ layout: default
 **Cyberespace**
 
  - <a href="http://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html?_r=0">The death of the cyberflâneur</a><br>
- - <a href="https://sawisms.blog/2016/06/02/culture-du-narcissisme-sur-les-reseaux-sociaux/">narcisses</a><br>
- - <a href="http://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html?_r=0">flâner</a><br>
+
 **Hypothèse:**
 
    - Facebook, l'Haussmann du cyberespace.
