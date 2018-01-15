@@ -3,7 +3,6 @@
 **Que représente internet pour moi aujourd’hui ?**
 </p>
 
-
 <p>
 Ayant baigné dedans depuis toujours, je ne m’étais jamais interrogeait sur cette question. J’ai toujours pris internet comme un outil 
 de recherche, de dialogue, de synchronisation (d’organisation), une aide au quotidien sans jamais avoir voulu remettre de moi-même cette 
@@ -23,7 +22,6 @@ Cependant nous somme bien loin de cette « utopie » et évoluons dans un univer
 toute liberté et véritablement illusoire. On sait bien entendu que tout n’est pas aussi beau que ce que veut nous montrer les différentes
 pages qui se dressent sous nos yeux devant nos écrans.
 </p>
-
 
 <p>
 De nombreuse rumeur et fait avérés exacts se sont rependu, c’est dernier temps, autour de la sécurité de nos informations qui découlerait
@@ -56,9 +54,9 @@ devoir posséder quelque base dans le domaine de la programmation je pense.
 </p>
 
  <p>
-Voici l'adresse pour accéder au  [Site] (http://eudes1.github.io) dédier à cette article.  
+Voici l'adresse pour accéder au  [Site] (http://eudes1.github.io) dédier à cette article. 
+<p>Voici le site pour accéder à cette article : [Site] (http://eudes1.github.io)
 </p>
-
 <p>
 Eudes Cazaunau
 </p>
