@@ -25,11 +25,14 @@ pages qui se dressent sous nos yeux devant nos écrans.
 </p>
 
 
+<p>
 De nombreuse rumeur et fait avérés exacts se sont rependu, c’est dernier temps, autour de la sécurité de nos informations qui découlerait
 de notre vie privée. Google, Facebook et d’autre grand groupe sont au centre de différents scandale, résultant du traitement de nos
 données « personnelle ». Nos informations sont donc récupérées et revendu à des entreprises ou autre qui en ont besoin pour connaitre
 les tendances et gout du marché, des villes voire quartier pour développer différents produite en total adéquation avec nos goûts etc… 
+</p>
 
+<p>
 Il y a aussi, cette histoire de bulle informatique recessant nos gouts, habitudes, envie, tout ce qui découle de nous et que nous
 pourrions laisser échapper sur internet qui et garder, stocker pour être sans doute étudier et analysé. Je me permettrai ici une petite
 digression pour dire que nos relevé d’eau et d’électricité produise le même effet, ceux qui les analyses peuvent connaître lorsque nous
@@ -38,17 +41,24 @@ allons manger en pleine nuit etc… Même si je ne m’étais jamais vraiment po
 en découle, il surgit néanmoins de l’utilisation de ce « medium » un certain mécontentement : En effet, aujourd’hui sur internet ou 
 sur différentes applications que nous connaissons et utilisons et de devoir déposer ou laisser accès à des applications à des 
 informations personnelles qui nous touche de premier ordre. Sachant que nous ne savons pas où vont ces informations. 
+</p>
 
+<p>
 Ceci est vrai pour les portables, que nous ne pouvons « bien configurer » qu’au prix d’information personnelle que nous leurs concédons,
-en synchronisant nos comptes, contacte, adresse… pour pouvoir utiliser entièrement et dans leur plein potentiel ces différents smartphone,
-ordinateur, tablette etc… Y aurait ‘il des solutions pour nous désenclaver de ce système aujourd’hui ? Pour répondre à cette question,
-les horizons qui s’offre à nous paraissent très limité voire inexistant. Il y en a bien un évoqué en cour et qui se développe qui est la
-culture de l’open source ou nous pouvons accéder à des informations sans avoir à donner d’informations ou à payer. 
+en synchronisant nos comptes, contacte, adresse… pour pouvoir utiliser entièrement et dans leur plein potentiel ces différents smartphone,ordinateur, tablette etc… Y aurait ‘il des solutions pour nous désenclaver de ce système aujourd’hui ? Pour répondre à cette question,les horizons qui s’offre à nous paraissent très limité voire inexistant. Il y en a bien un évoqué en cour et qui se développe qui est laculture de l’open source ou nous pouvons accéder à des informations sans avoir à donner d’informations ou à payer. 
+</p>
 
+<p>
 Plus qu’une culture c’est une communauté qui s’échange tout type de données sans barrières ni restriction. C’est la seule barrière, 
 qui reste debout, que nous pouvons voir s’élever contre un système contrôlé, qui et tenu par les grandes firmes que sont google,
 facebook, amazone et autre. Cependant une barrière reste pour pouvoir jouir pleinement de ce système, cette barrière qui est de 
 devoir posséder quelque base dans le domaine de la programmation je pense.
- 
-Voici l'adresse pour accéder au site dédier à cette article : https://eudes1.github.io/      [Site](http://eudes1.github.io)
+</p>
+
+ <p>
+Voici l'adresse pour accéder au  [Site](http://eudes1.github.io) dédier à cette article.  
+</p>
+
+<p>
 Eudes Cazaunau
+</p>
