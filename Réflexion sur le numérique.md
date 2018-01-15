@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1> Réflexion global sur internet et le numérique </h1>
+<h1> Réflexion sur internet et le numérique </h1>
 <p> 
 <h1>Que représente internet pour moi aujourd’hui ?</h1>
 </p>
