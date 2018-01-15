@@ -36,7 +36,8 @@ Il y a aussi, cette histoire de bulle informatique recessant nos gouts, habitude
 pourrions laisser échapper sur internet qui et garder, stocker pour être sans doute étudier et analysé. Je me permettrai ici une petite
 digression pour dire que nos relevé d’eau et d’électricité produise le même effet, ceux qui les analyses peuvent connaître lorsque nous
 partons en vacances, nous rentrons, nous sortons, nous l’avons jusqu’à savoir lorsque nous avons une « petite fringale » et que nous
-allons manger en pleine nuit etc… Même si je ne m’étais jamais vraiment posé beaucoup de question sur le numérique, internet et ce qui
+allons manger en pleine nuit etc… 
+Même si je ne m’étais jamais vraiment posé beaucoup de question sur le numérique, internet et ce qui
 en découle, il surgit néanmoins de l’utilisation de ce « medium » un certain mécontentement : En effet, aujourd’hui sur internet ou 
 sur différentes applications que nous connaissons et utilisons et de devoir déposer ou laisser accès à des applications à des 
 informations personnelles qui nous touche de premier ordre. Sachant que nous ne savons pas où vont ces informations. </p>
