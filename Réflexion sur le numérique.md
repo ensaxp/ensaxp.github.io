@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1> Comment travailler avec Git/GitHub ? </h1>
+<h1> Réflexion global sur internet et le numérique </h1>
 <p> 
 <h1>Que représente internet pour moi aujourd’hui ?</h1>
 </p>
@@ -50,7 +50,8 @@ devoir posséder quelque base dans le domaine de la programmation je pense.
 </p>
 Voici l'adresse pour accéder au  [Site] (https://eudes1.github.io) dédier à cette article.      [Site](https://eudes1.github.io)
 Voici le site pour accéder à cette article : (https://eudes1.github.io)[Site] 
+<p>
 <a href="https://eudes1.github.io"> ici</a>
-
+</p>
 
 Eudes Cazaunau
