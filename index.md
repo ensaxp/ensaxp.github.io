@@ -23,3 +23,5 @@ layout: default
 **6.** [Kezako? Elements d'architecture numerique](appel)
 
 **7.** [The Human Fabric of the Facebook Pyramid - Fiche de Lecture](facefabric)
+
+**8.** [Réflexion sur le numérique](Réflexion sur le numérique)
