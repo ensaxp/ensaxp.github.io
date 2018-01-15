@@ -14,7 +14,7 @@ layout: default
 
 
 **L’homme animal social au XXIeme siècle**
-Critique d’une societe virtuelle
+  - Critique d’une société virtuelle
 
 
 
