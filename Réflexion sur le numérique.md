@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 <p> 
 **Que représente internet pour moi aujourd’hui ?**
