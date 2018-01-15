@@ -51,7 +51,7 @@ qui reste debout, que nous pouvons voir s’élever contre un système contrôl�
 facebook, amazone et autre. Cependant une barrière reste pour pouvoir jouir pleinement de ce système, cette barrière qui est de 
 devoir posséder quelque base dans le domaine de la programmation je pense.
 </p>
-Voici l'adresse pour accéder au  <a href="https://eudes1.github.io"> ici</a> dédier à cette article.      [Site](https://eudes1.github.io)
+Voici l'adresse pour accéder au site <a href="https://eudes1.github.io"> ici</a> dédier à cette article.      [Site](https://eudes1.github.io)
 Voici le site pour accéder à cette article : (https://eudes1.github.io)[Site] 
 <p>
 <a href="https://eudes1.github.io"> ici</a>
