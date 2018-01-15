@@ -6,12 +6,12 @@ layout: default
 
 
 <h3>Que représente internet pour moi aujourd’hui ?</h3>
+ 
 
-
-
+<p style="text-align:justify;">
 Ayant baigné dedans depuis toujours, je ne m’étais jamais interrogeait sur cette question. J’ai toujours pris internet comme un outil 
 de recherche, de dialogue, de synchronisation (d’organisation), une aide au quotidien sans jamais avoir voulu remettre de moi-même cette 
-aide en question, ni en cherché réellement une autre. 
+aide en question, ni en cherché réellement une autre. </p>
 
 
 Avec le peu d’expérience que j’ai d’internet je peux tout de suite me rendre contre
@@ -52,7 +52,7 @@ facebook, amazone et autre. Cependant une barrière reste pour pouvoir jouir ple
 devoir posséder quelque base dans le domaine de la programmation je pense.
 
 
-Voici l'adresse pour accéder au site <a href="https://eudes1.github.io"> ici</a> dédier à cette article.
+Voici l'adresse pour accéder au site  <a href="https://eudes1.github.io"> ici</a>  dédier à cette article.
 
 
 
