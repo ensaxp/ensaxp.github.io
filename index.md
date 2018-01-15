@@ -25,3 +25,5 @@ layout: default
 **7.** [The Human Fabric of the Facebook Pyramid - Fiche de Lecture](facefabric)
 
 **8.** [Réflexion sur le numérique](Réflexion sur le numérique)
+ 
+**9.** [L’homme, animal social au XXIeme siècle] (Facebook et la société)
