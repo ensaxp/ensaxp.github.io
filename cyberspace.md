@@ -12,9 +12,8 @@ layout: default
    - Le cyberespace est-il un espace à l'échelle planétaire ?
 
 
-
-**L’homme animal social au XXIeme siècle**
-  - Critique d’une société virtuelle
+**L’homme animal social au XXIeme siècle.**
+Critique d’une société virtuelle.
 
 
 
