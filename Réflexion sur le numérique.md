@@ -53,9 +53,7 @@ facebook, amazone et autre. Cependant une barrière reste pour pouvoir jouir ple
 devoir posséder quelque base dans le domaine de la programmation je pense.</p>
 
 
-  Voici l'adresse pour accéder au site  <a href="https://eudes1.github.io"> ici</a>  dédier à cette article.                            <a href="https://eudes1.github.io"> ici</a>
-
-
+  Voici l'adresse pour accéder au site  <a href="https://eudes1.github.io"> ici</a>  dédier à cette article.                            
 
 
 Eudes Cazaunau
