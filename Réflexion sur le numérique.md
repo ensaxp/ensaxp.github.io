@@ -56,7 +56,7 @@ devoir posséder quelque base dans le domaine de la programmation je pense.
 </p>
 
  <p>
-Voici l'adresse pour accéder au  [Site](http://eudes1.github.io) dédier à cette article.  
+Voici l'adresse pour accéder au  [Site] (http://eudes1.github.io) dédier à cette article.  
 </p>
 
 <p>
