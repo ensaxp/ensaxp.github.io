@@ -53,4 +53,6 @@ devoir posséder quelque base dans le domaine de la programmation je pense.
 </p>
 Voici l'adresse pour accéder au site <a href="https://eudes1.github.io"> ici</a> dédier à cette article.
 
+<p>
 Eudes Cazaunau
+</p> 
